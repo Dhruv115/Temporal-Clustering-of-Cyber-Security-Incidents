@@ -13,9 +13,3 @@ This project investigates and implements **temporal clustering techniques** to a
 - Extendable for different datasets and scenarios
 
 ---
-
-## Project Structure
-.
-├── README.md                          # Project overview and instructions
-├── cyber_data.csv                     # Sample dataset of cyber incidents
-├── cyber_threat_analysis_project.ipynb  # Jupyter Notebook for analysis & visualization
